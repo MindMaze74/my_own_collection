@@ -1,0 +1,19 @@
+namespace: my_own_namespace
+name: yandex_cloud_elk
+version: 1.0.0
+readme: README.md
+authors:
+  - Your Name <your@email.com>
+description: Collection with my_own_module and role for Netology homework
+license:
+  - MIT
+license_file: ""
+tags:
+  - netology
+  - ansible
+  - my_own_module
+dependencies: {}
+repository: https://github.com/MindMaze74/my_own_collection
+documentation: ""
+homepage: ""
+issues: ""
